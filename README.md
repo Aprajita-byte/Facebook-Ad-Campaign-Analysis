@@ -1,4 +1,4 @@
-# Social_Media_Ad_Campaign
+# Facebook-Ad-Campaign-Analysis
 
 The dataset, sourced from Kaggle's "Sales Conversion Optimization" by GOKAGGLERS, contains marketing and conversion data from a company's social media ad campaign. It comprises 1143 entries across 11 columns, detailing ad IDs, demographic information (age, gender, interest), ad impressions, clicks, expenditure, and conversion metrics. After identifying and removing 204 inconsistent records—where conversions were reported despite zero clicks—the cleaned dataset includes 939 valid entries. This cleaning ensures more accurate analysis and insights.
 
